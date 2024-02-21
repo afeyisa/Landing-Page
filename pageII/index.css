@@ -1,0 +1,47 @@
+.topic{
+    margin-left: 5%;
+    color: rgb(28, 123, 160);
+}
+.top{
+    color: wheat;
+    background: #1F2937;
+    height: 300px;
+}
+.top div{
+    margin-left: 5%;
+}
+.top h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+.top h2{
+    font-size: 18px;
+}
+.middle{
+    margin-left: 5%;
+    height: 200px;
+}
+.middle button{
+    margin-top: 20px;
+    background: rgb(52, 103, 129);
+    height: 40px;
+    width: 80px;
+    border-radius: 6px;
+    color: wheat;
+}
+.middle h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+.bottom { 
+    background: #E5E7EB;
+    height: 200PX;
+   
+    
+}
+.bottom p{
+    margin-left: 5%;
+    font-size: 36px;
+    font-style: italic;
+    
+}
